@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyActivityLifeCycleDemo1</string>
+    <string name="msg1">Hello Sri Lanka</string>
+    <string name="msg2">Wonder of Asia</string>
+</resources>
